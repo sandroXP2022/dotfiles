@@ -1,0 +1,10 @@
+{
+    "version": "1.9.7",
+    "drawerStates": {
+        "settings": {
+            "editor": true,
+            "addons": true,
+            "window": true
+        }
+    }
+}
