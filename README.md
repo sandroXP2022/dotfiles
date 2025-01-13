@@ -5,7 +5,9 @@
 **OS** --- CachyOS
 
 **WM** --- Hyprland :)
+
 **Shell** --- Fish
+
 **Colorscheme** --- Pywal
 
 ## Apps
