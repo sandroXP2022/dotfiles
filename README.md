@@ -26,6 +26,6 @@
 
 
 
-## Screenshots
+## Wallpaper
 
 ![Setup](wallpaper.png)
