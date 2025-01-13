@@ -13,8 +13,11 @@
 ## Apps
 
 **Terminal** --- Kitty
+
 **Menu** --- Fuzzel
+
 **Browser** --- Firefox (with Pywalfox, Ublock Origin and DarkReader)
+
 **Discord Client** --- Vesktop (with Custom CSS)
 
 
